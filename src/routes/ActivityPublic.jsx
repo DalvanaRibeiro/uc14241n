@@ -19,7 +19,7 @@ export default function ActivityPublic(){
       <div className="row" style={{justifyContent:'space-between'}}>
         <div>
           <h2>{meta.titulo}</h2>
-          <p className="muted">Página pública (somente leitura)</p>
+          <p className="muted">Registro da Atividade.</p>
         </div>
       </div>
 
